@@ -1,0 +1,21 @@
+{
+  "name": "jsdev",
+  "description": "JavaScript development environment and learning deployment",
+  "main": "",
+  "authors": [
+    "Harsha"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery-ui": "^1.12.1"
+  }
+}
